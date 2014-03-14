@@ -1,0 +1,16 @@
+[
+	{
+		"vagrant":
+		{ 
+			"db_name":"wordpress",
+			"db_user":"wordpressuser",
+			"db_passowrd":"wordpressdbpassword",
+			"db_host":"localhost",
+			"table_prefix":"wpxx_",
+			"filesystem_directory":"/vagrant",
+			"blog_title":"Wordpress Blog Title",
+			"admin_email":"admin@admin.com",
+			"admin_pass":"admin123"
+		}
+	}
+]
